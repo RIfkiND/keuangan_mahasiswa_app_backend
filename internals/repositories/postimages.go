@@ -3,7 +3,7 @@ package repositories
 import (
     "os"
     "mime/multipart"
-    "gorestapi/internals/core"
+    "keuangan/backend/internals/core"
 )
 
 type PostImageRepository struct{}

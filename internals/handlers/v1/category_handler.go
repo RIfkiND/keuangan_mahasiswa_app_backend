@@ -4,9 +4,9 @@ import (
 	"encoding/json"
     "net/http"
     "strconv"
-    "gorestapi/internals/models"
-    "gorestapi/internals/services"
-    "gorestapi/internals/core"
+    "keuangan/backend/internals/models"
+    "keuangan/backend/internals/services"
+    "keuangan/backend/internals/core"
 )
 
 

@@ -1,10 +1,10 @@
 package main
 
 import (
-    "gorestapi/config"
-    "gorestapi/internals/repositories"
-    "gorestapi/internals/services"
-    "gorestapi/internals/handlers"
+    "keuangan/backend/config"
+    "keuangan/backend/internals/repositories"
+    "keuangan/backend/internals/services"
+    "keuangan/backend/internals/handlers"
     "net/http"
 )
 

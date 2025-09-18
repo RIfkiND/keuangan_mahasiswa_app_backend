@@ -2,7 +2,7 @@ package v1
 
 import (
     "net/http"
-    "gorestapi/internals/services"
+    "keuangan/backend/internals/services"
     // "mime/multipart"
     "strings"
 )

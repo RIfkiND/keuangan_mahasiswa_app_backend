@@ -5,8 +5,8 @@ import (
     "time"
     "github.com/golang-jwt/jwt/v5"
     "golang.org/x/crypto/bcrypt"
-    "gorestapi/internals/models"
-    "gorestapi/internals/repositories"
+    "keuangan/backend/internals/models"
+    "keuangan/backend/internals/repositories"
 )
 
 var jwtSecret = []byte(os.Getenv("JWT_SECRET"))

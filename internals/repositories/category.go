@@ -2,7 +2,7 @@ package repositories
 
 import (
     "gorm.io/gorm"
-    "gorestapi/internals/models"
+    "keuangan/backend/internals/models"
 )
 
 type CategoryRepository struct {

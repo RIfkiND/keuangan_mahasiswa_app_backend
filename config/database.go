@@ -5,7 +5,7 @@ import (
     "gorm.io/driver/postgres"
     "gorm.io/gorm"
     "os"
-	"gorestapi/internals/models"
+	"keuangan/backend/internals/models"
 )
 
 var DB *gorm.DB

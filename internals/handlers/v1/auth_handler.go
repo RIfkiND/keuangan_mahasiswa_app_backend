@@ -3,8 +3,8 @@ package v1
 import (
     "encoding/json"
     "net/http"
-    "gorestapi/internals/models"
-    "gorestapi/internals/services"
+    "keuangan/backend/internals/models"
+    "keuangan/backend/internals/services"
 )
 
 type AuthHandler struct {

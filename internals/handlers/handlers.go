@@ -1,8 +1,8 @@
 package handlers
 
 import (
-    "gorestapi/internals/handlers/v1"
-    "gorestapi/internals/services"
+    "keuangan/backend/internals/handlers/v1"
+    "keuangan/backend/internals/services"
     "net/http"
     "strings"
 )
